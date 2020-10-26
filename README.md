@@ -25,7 +25,7 @@ When the application loads a user can search for booksbut cannot save them until
 Navigat to root directory and use NPM start command.
 
 ## Deployed Application
-https://pure-wave-30954.herokuapp.com/
+https://neilsbooksearch.herokuapp.com/
 
 ## Project Status
 This Google Book Search is complete in adherence with acceptance criteria
